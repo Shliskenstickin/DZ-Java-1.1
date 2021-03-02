@@ -9,9 +9,11 @@
 На тестирование затрачено: 0,03 часа
 
 В результате тестирования выявлены следующие дефекты:
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
-* <ссылка на описание дефекта>
+* https://github.com/Shliskenstickin/DZ-Java-1.1/issues/1
+* https://github.com/Shliskenstickin/DZ-Java-1.1/issues/2
+* https://github.com/Shliskenstickin/DZ-Java-1.1/issues/3
+* https://github.com/Shliskenstickin/DZ-Java-1.1/issues/4
+* https://github.com/Shliskenstickin/DZ-Java-1.1/issues/5
 
 ## Описание процесса тестирования
 
